@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: bbovely_blog
+description: 안녕하세요 제 블로그에 오신것을 환영합니다!
+url: https://github.com/bbovely/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
+  name: bbovely
+  url: https://github.com/bbovely/
   email: vszhub@gmail.com
