@@ -3,8 +3,6 @@ layout: post
 title: Welcome to bbovely's blog ~ 
 date: 2022-03-19 19:59 +0800
 last_modified_at: 2022-03-19 19:59 +0800
-tags: [jekyll theme, jekyll, tutorial]
-toc:  true
 ---
 Welcome to **bbovely's blog**! This is an example post to show the layout.
 {: .message }
